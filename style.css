@@ -770,22 +770,21 @@ h4 {
     background-color: #364577;
 }
 
-.bgc-atomic-tangerine {
-    background-color: #F3976C;
+.bgc-atomic-goldenrod {
+    background-color: #FDCC70;
 }
 
-.tc-white {
-    color: #F3976C!important;
+.tc-goldenrod {
+    color: #FDCC70!important;
 }
 
-.btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+.btn-atomic-goldenrod {
+    background: #FDCC70;
+    color: black!important;
 }
 
-.btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+.btn-atomic-goldenrod:hover {
+    background: #FCB33E!important;
 }
 
 .ltc-white {
